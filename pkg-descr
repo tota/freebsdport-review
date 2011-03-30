@@ -1,0 +1,13 @@
+ReVIEW is an easy-to-use digital publishing system for books and ebooks.
+
+ReVIEW uses its original format('ReVIEW format') as source files.
+See doc/format.rdoc (in Japanese).
+
+Output formats ReVIEW supports are:
+
+* EPUB
+* LaTeX(ptexlive)
+* InDesign(IDGXML)
+* plain text(TOPBuilder Markup Lang.)
+
+WWW:	https://github.com/kmuto/review
